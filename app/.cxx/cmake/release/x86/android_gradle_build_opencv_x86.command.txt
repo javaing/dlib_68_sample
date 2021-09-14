@@ -1,0 +1,7 @@
+Executable : C:\Users\MIS\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\android\dlib-android-facedect-master\app\.cxx\cmake\release\x86
+opencv
+jvmArgs : 
+

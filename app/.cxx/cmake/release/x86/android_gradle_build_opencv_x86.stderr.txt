@@ -1,0 +1,1 @@
+ninja: error: 'D:/android/dlib-android-facedect-master/app/libs/x86/libopencv_java3.so', needed by 'D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/release/obj/x86/libopencv.so', missing and no known rule to make it

@@ -1,0 +1,1 @@
+ninja: Entering directory `D:\android\dlib-android-facedect-master\app\.cxx\cmake\debug\arm64-v8a'

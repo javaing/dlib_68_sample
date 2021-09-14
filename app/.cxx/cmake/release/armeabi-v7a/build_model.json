@@ -1,0 +1,244 @@
+{
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 26,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\armeabi-v7a",
+    "cmakeServerLogFile": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\armeabi-v7a\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cxx\\release\\armeabi-v7a",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\armeabi-v7a",
+      "cmakeToolchain": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android.toolchain.cmake",
+      "cmakeExecutable": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+      "variables": [
+        {
+          "name": "CMAKE_CXX_FLAGS",
+          "value": "-O3 -fexceptions -fsigned-char -frtti -std\u003dc++17 -Wformat"
+        },
+        {
+          "name": "CMAKE_C_FLAGS",
+          "value": "-O3 -DGL_GLEXT_PROTOTYPES -DEGL_EGLEXT_PROTOTYPES -fsigned-char -ID:/android/dlib-android-facedect-master/app -Wformat -mfpu\u003dneon -mfloat-abi\u003dsoftfp -frtti"
+        },
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\prefab\\armeabi-v7a\\prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Release"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "armeabi-v7a"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "armeabi-v7a"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "D:\\android\\dlib-android-facedect-master\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "26"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-26"
+        },
+        {
+          "name": "ANDROID_TOOLCHAIN",
+          "value": "clang"
+        },
+        {
+          "name": "ANDROID_ARM_NEON",
+          "value": "TRUE"
+        },
+        {
+          "name": "PATH_TO_MEDIACORE:STRING",
+          "value": "D:/android/dlib-android-facedect-master/app"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\armeabi-v7a",
+  "info": {
+    "abi": "ARMEABI_V7A",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\armeabi-v7a",
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_PLATFORM\u003dandroid-26",
+      "-DANDROID_TOOLCHAIN\u003dclang",
+      "-j8",
+      "-DANDROID_ARM_NEON\u003dTRUE",
+      "-DPATH_TO_MEDIACORE:STRING\u003dD:/android/dlib-android-facedect-master/app"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cFlagsList": [
+      "-O3",
+      "-DGL_GLEXT_PROTOTYPES",
+      "-DEGL_EGLEXT_PROTOTYPES",
+      "-fsigned-char",
+      "-ID:/android/dlib-android-facedect-master/app",
+      "-Wformat",
+      "-mfpu\u003dneon",
+      "-mfloat-abi\u003dsoftfp -frtti"
+    ],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [
+      "-O3",
+      "-fexceptions",
+      "-fsigned-char",
+      "-frtti -std\u003dc++17",
+      "-Wformat"
+    ],
+    "isDebuggableEnabled": false,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+      },
+      "cmakeToolchainFile": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "D:\\android\\dlib-android-facedect-master\\app\\.cxx",
+      "gradleModulePathName": ":app",
+      "intermediatesFolder": "D:\\android\\dlib-android-facedect-master\\app\\build\\intermediates",
+      "makeFile": "D:\\android\\dlib-android-facedect-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "moduleBuildFile": "D:\\android\\dlib-android-facedect-master\\app\\build.gradle",
+      "moduleRootFolder": "D:\\android\\dlib-android-facedect-master\\app",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 31,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31
+        }
+      },
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkVersion": "23.0.7599858",
+      "project": {
+        "compilerSettingsCacheFolder": "D:\\android\\dlib-android-facedect-master\\.cxx",
+        "cxxFolder": "D:\\android\\dlib-android-facedect-master\\.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "D:\\android\\dlib-android-facedect-master",
+        "sdkFolder": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk",
+        "isPrefabEnabled": false
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "D:\\android\\dlib-android-facedect-master\\app\\build\\intermediates\\cmake\\release\\obj",
+    "variantName": "release",
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "prefabDirectory": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\prefab\\armeabi-v7a"
+}

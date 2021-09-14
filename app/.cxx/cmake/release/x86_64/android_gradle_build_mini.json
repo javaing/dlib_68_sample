@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "D:\\android\\dlib-android-facedect-master\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "opencv-Release-x86_64": {
+      "artifactName": "opencv",
+      "buildCommand": "C:\\Users\\MIS\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\android\\dlib-android-facedect-master\\app\\.cxx\\cmake\\release\\x86_64\" opencv",
+      "abi": "x86_64",
+      "output": "D:\\android\\dlib-android-facedect-master\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libopencv.so",
+      "runtimeFiles": []
+    }
+  }
+}

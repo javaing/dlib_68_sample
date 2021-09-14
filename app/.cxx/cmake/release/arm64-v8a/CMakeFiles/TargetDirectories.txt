@@ -1,0 +1,3 @@
+D:/android/dlib-android-facedect-master/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/android/dlib-android-facedect-master/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/opencv.dir
+D:/android/dlib-android-facedect-master/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

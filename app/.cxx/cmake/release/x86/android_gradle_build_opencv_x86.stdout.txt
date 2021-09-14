@@ -1,0 +1,1 @@
+ninja: Entering directory `D:\android\dlib-android-facedect-master\app\.cxx\cmake\release\x86'

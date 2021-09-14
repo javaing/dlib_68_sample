@@ -1,0 +1,22 @@
+# ninja log v5
+2	638	653309883	CMakeFiles/opencv.dir/native-lib.cpp.o	e9c96f3da937359d
+0	7491	653309890	CMakeFiles/opencv.dir/face_landmark_detection_ex.cpp.o	c932ef550fc16d5a
+7494	8472	653309891	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+5	6909	653310196	CMakeFiles/opencv.dir/face_landmark_detection_ex.cpp.o	c932ef550fc16d5a
+6909	7876	653310197	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+4	327	653310397	CMakeFiles/opencv.dir/native-lib.cpp.o	e9c96f3da937359d
+327	1303	653310398	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+5	414	653310597	CMakeFiles/opencv.dir/native-lib.cpp.o	e9c96f3da937359d
+414	1386	653310598	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+5	414	653310648	CMakeFiles/opencv.dir/native-lib.cpp.o	e9c96f3da937359d
+414	1388	653310649	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+4	427	653310744	CMakeFiles/opencv.dir/native-lib.cpp.o	e9c96f3da937359d
+427	1402	653310745	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+4	415	653311473	CMakeFiles/opencv.dir/native-lib.cpp.o	e9c96f3da937359d
+415	1389	653311474	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+5	418	653311586	CMakeFiles/opencv.dir/native-lib.cpp.o	e9c96f3da937359d
+418	1395	653311587	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+4	511	653311750	CMakeFiles/opencv.dir/native-lib.cpp.o	e9c96f3da937359d
+511	1922	653311751	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
+5	6931	653311857	CMakeFiles/opencv.dir/face_landmark_detection_ex.cpp.o	c932ef550fc16d5a
+6931	7906	653311858	D:/android/dlib-android-facedect-master/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libopencv.so	288c0016f6a6e47b
